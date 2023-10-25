@@ -1,0 +1,743 @@
+,variables,VIF
+0,0__number_peaks__n_5,12.428560024610658
+1,0__number_peaks__n_3,6.030956944011387
+2,0__energy_ratio_by_chunks__num_segments_10__segment_focus_0,19.103636583653582
+3,0__minimum,1.8933165133416194
+4,"0__cwt_coefficients__coeff_13__w_10__widths_(2, 5, 10, 20)",643147192.602935
+5,"0__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""min""",6.628061420844997
+6,0__spkt_welch_density__coeff_2,5129130421.63685
+7,0__spkt_welch_density__coeff_5,1668071218.3689694
+8,0__spkt_welch_density__coeff_8,2077231845.895959
+9,0__quantile__q_0.9,1548.029622734347
+10,"0__cwt_coefficients__coeff_14__w_10__widths_(2, 5, 10, 20)",4397816742.358184
+11,"0__cwt_coefficients__coeff_10__w_10__widths_(2, 5, 10, 20)",9524644623.18475
+12,0__longest_strike_below_mean,84.27633153726484
+13,"0__cwt_coefficients__coeff_11__w_10__widths_(2, 5, 10, 20)",6992162814.146254
+14,"0__cwt_coefficients__coeff_9__w_10__widths_(2, 5, 10, 20)",34752678658.61946
+15,"0__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""min""",8.157808770694787
+16,"0__cwt_coefficients__coeff_14__w_20__widths_(2, 5, 10, 20)",47064721075.67179
+17,0__absolute_sum_of_changes,57280579309.88185
+18,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.0",142994114220.3682
+19,0__mean_abs_change,142994114220.3682
+20,"0__cwt_coefficients__coeff_13__w_20__widths_(2, 5, 10, 20)",89443206803.58075
+21,"0__cwt_coefficients__coeff_12__w_20__widths_(2, 5, 10, 20)",115700898595.24197
+22,"0__cwt_coefficients__coeff_8__w_10__widths_(2, 5, 10, 20)",59548187246.649734
+23,"0__cwt_coefficients__coeff_10__w_20__widths_(2, 5, 10, 20)",121513649305.10612
+24,"0__cwt_coefficients__coeff_11__w_20__widths_(2, 5, 10, 20)",120269177679.07109
+25,"0__cwt_coefficients__coeff_9__w_20__widths_(2, 5, 10, 20)",60266561762.26443
+26,"0__cwt_coefficients__coeff_12__w_10__widths_(2, 5, 10, 20)",792686225.8560123
+27,"0__cwt_coefficients__coeff_8__w_20__widths_(2, 5, 10, 20)",71231310832.27356
+28,"0__cwt_coefficients__coeff_7__w_20__widths_(2, 5, 10, 20)",131128246538.66635
+29,"0__fft_coefficient__attr_""abs""__coeff_2",1205437699.8745997
+30,"0__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.0",inf
+31,0__cid_ce__normalize_False,12025071264.68188
+32,"0__cwt_coefficients__coeff_6__w_20__widths_(2, 5, 10, 20)",101957135876.53795
+33,"0__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.0",inf
+34,0__mean_n_absolute_max__number_of_maxima_7,60857398430.7354
+35,"0__cwt_coefficients__coeff_7__w_10__widths_(2, 5, 10, 20)",70157176442.45473
+36,"0__cwt_coefficients__coeff_5__w_20__widths_(2, 5, 10, 20)",110509646587.25728
+37,"0__fft_coefficient__attr_""real""__coeff_0",136319872487.529
+38,"0__fft_coefficient__attr_""abs""__coeff_0",136319872487.529
+39,0__sum_values,137868108350.28763
+40,0__mean,164349954470.23068
+41,"0__fft_coefficient__attr_""abs""__coeff_1",3822031956.666064
+42,"0__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""mean""",110044257.10262106
+43,0__energy_ratio_by_chunks__num_segments_10__segment_focus_9,7.49760186134312
+44,0__abs_energy,inf
+45,0__root_mean_square,11879306769.671564
+46,0__standard_deviation,10538889895.48043
+47,0__variance,inf
+48,"0__cwt_coefficients__coeff_4__w_20__widths_(2, 5, 10, 20)",121297645403.679
+49,"0__linear_trend__attr_""stderr""",5109505190.931973
+50,"0__cwt_coefficients__coeff_3__w_20__widths_(2, 5, 10, 20)",43668304962.286156
+51,0__absolute_maximum,75148293033.82301
+52,0__maximum,75148293033.82301
+53,"0__fft_coefficient__attr_""abs""__coeff_11",604979017.9447833
+54,0__energy_ratio_by_chunks__num_segments_10__segment_focus_8,330.2812893539218
+55,"0__agg_linear_trend__attr_""stderr""__chunk_len_10__f_agg_""var""",180143985094819.84
+56,"0__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""max""",1449934073.4440463
+57,"0__cwt_coefficients__coeff_2__w_20__widths_(2, 5, 10, 20)",100735894320.13994
+58,"0__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""min""",6.657880052616047
+59,"0__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""max""",715498704.333433
+60,"0__fft_coefficient__attr_""abs""__coeff_12",827074256.2318894
+61,0__energy_ratio_by_chunks__num_segments_10__segment_focus_7,464.2268669681225
+62,"0__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""mean""",57568334950.82475
+63,"0__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""mean""",44533436443.440735
+64,"0__cwt_coefficients__coeff_6__w_10__widths_(2, 5, 10, 20)",79888593530.1249
+65,"0__cwt_coefficients__coeff_1__w_20__widths_(2, 5, 10, 20)",108940484455.01926
+66,"0__agg_linear_trend__attr_""stderr""__chunk_len_10__f_agg_""mean""",20342262.145380195
+67,"0__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""min""",93.50553737709576
+68,"0__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""var""",900719925474099.2
+69,"0__fft_coefficient__attr_""abs""__coeff_10",383382780.17921215
+70,"0__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""var""",inf
+71,"0__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""max""",2581313518.9804144
+72,"0__fft_coefficient__attr_""abs""__coeff_9",436546031.0929535
+73,0__energy_ratio_by_chunks__num_segments_10__segment_focus_6,276.4734620116518
+74,"0__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""var""",inf
+75,"0__cwt_coefficients__coeff_0__w_20__widths_(2, 5, 10, 20)",82840055686.02034
+76,"0__cwt_coefficients__coeff_5__w_10__widths_(2, 5, 10, 20)",97827778855.03728
+77,"0__agg_linear_trend__attr_""stderr""__chunk_len_10__f_agg_""max""",57998718.20156999
+78,"0__cwt_coefficients__coeff_8__w_5__widths_(2, 5, 10, 20)",1584315718.9315107
+79,0__index_mass_quantile__q_0.3,18.081671254232816
+80,"0__linear_trend__attr_""intercept""",40107577188.75121
+81,"0__fft_coefficient__attr_""abs""__coeff_5",343109205.9165465
+82,"0__cwt_coefficients__coeff_9__w_5__widths_(2, 5, 10, 20)",17541172751.00536
+83,"0__fft_coefficient__attr_""abs""__coeff_8",343311360.7262699
+84,"0__fft_coefficient__attr_""abs""__coeff_13",179119496.80329365
+85,"0__cwt_coefficients__coeff_4__w_10__widths_(2, 5, 10, 20)",96373880599.833
+86,"0__fft_coefficient__attr_""abs""__coeff_6",352688478.67922527
+87,0__number_crossing_m__m_1,42.54576636724607
+88,0__longest_strike_above_mean,13.217214894995033
+89,"0__fft_coefficient__attr_""abs""__coeff_3",256459398.0749198
+90,"0__fft_coefficient__attr_""abs""__coeff_7",383895730.25675404
+91,"0__fft_coefficient__attr_""abs""__coeff_4",454694887.3849111
+92,"0__cwt_coefficients__coeff_0__w_5__widths_(2, 5, 10, 20)",44549735906.28783
+93,"0__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""mean""",16379287042.593918
+94,0__permutation_entropy__dimension_7__tau_1,32.86323411480486
+95,0__permutation_entropy__dimension_6__tau_1,30.998342422465345
+96,"0__cwt_coefficients__coeff_10__w_5__widths_(2, 5, 10, 20)",20635191661.663177
+97,"0__cwt_coefficients__coeff_3__w_10__widths_(2, 5, 10, 20)",119314875345.94843
+98,"0__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""mean""",52983525027.88819
+99,"0__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""var""",9007199254740992.0
+100,0__index_mass_quantile__q_0.2,14.968720389328078
+101,"0__cwt_coefficients__coeff_1__w_2__widths_(2, 5, 10, 20)",11200699427.904
+102,"0__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""max""",1941289993.8469326
+103,"0__fft_coefficient__attr_""imag""__coeff_1",4935140664.966861
+104,"0__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""max""",1197708680.495305
+105,0__permutation_entropy__dimension_5__tau_1,25.49556635532674
+106,0__energy_ratio_by_chunks__num_segments_10__segment_focus_5,39.565441849882255
+107,0__last_location_of_maximum,18.083627987149082
+108,0__first_location_of_maximum,18.9030221914405
+109,"0__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""var""",9007199254740992.0
+110,"0__cwt_coefficients__coeff_2__w_10__widths_(2, 5, 10, 20)",78450356705.11429
+111,0__index_mass_quantile__q_0.1,11.334156542832233
+112,"0__cwt_coefficients__coeff_2__w_2__widths_(2, 5, 10, 20)",201548428166.05487
+113,"0__linear_trend__attr_""slope""",65928848299.96334
+114,0__index_mass_quantile__q_0.4,15.166307711674248
+115,0__approximate_entropy__m_2__r_0.1,6.095373268882438
+116,"0__cwt_coefficients__coeff_7__w_5__widths_(2, 5, 10, 20)",2542838485.4032083
+117,"0__fft_coefficient__attr_""angle""__coeff_1",1526.2731848427925
+118,"0__cwt_coefficients__coeff_1__w_10__widths_(2, 5, 10, 20)",72207207371.6019
+119,0__ratio_value_number_to_time_series_length,89.22919599294681
+120,0__value_count__value_1,78.86548593707742
+121,0__percentage_of_reoccurring_datapoints_to_all_datapoints,90.28014751066702
+122,0__sum_of_reoccurring_data_points,58.81516162961925
+123,0__percentage_of_reoccurring_values_to_all_values,17.623216565076113
+124,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.2",5516.693692404907
+125,0__permutation_entropy__dimension_4__tau_1,14.33333079537376
+126,0__permutation_entropy__dimension_3__tau_1,11.289405943189342
+127,"0__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.2",2706518.572618343
+128,"0__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.2",1972326.135533258
+129,"0__cwt_coefficients__coeff_6__w_5__widths_(2, 5, 10, 20)",46735048979.3492
+130,0__number_peaks__n_1,13.841112731320408
+131,0__approximate_entropy__m_2__r_0.3,7.581054667628967
+132,0__autocorrelation__lag_9,10.763927798975997
+133,0__last_location_of_minimum,4.042164816010727
+134,0__first_location_of_minimum,4.085134824304004
+135,0__quantile__q_0.1,3.597678421372677
+136,0__autocorrelation__lag_7,8.882474370328213
+137,"0__cwt_coefficients__coeff_11__w_5__widths_(2, 5, 10, 20)",30669488006.718033
+138,0__sample_entropy,8.071438758649656
+139,0__approximate_entropy__m_2__r_0.9,8.783928848959516
+140,0__approximate_entropy__m_2__r_0.5,7.459926746822023
+141,"0__cwt_coefficients__coeff_3__w_2__widths_(2, 5, 10, 20)",225241922897.32156
+142,0__autocorrelation__lag_8,7.369897680422368
+143,0__fourier_entropy__bins_3,6.275860452544378
+144,"0__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""var""",36.429860068148095
+145,0__approximate_entropy__m_2__r_0.7,8.58228791938133
+146,"0__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""max""",31.99501198830412
+147,"0__cwt_coefficients__coeff_0__w_10__widths_(2, 5, 10, 20)",71519197519.00487
+148,"0__cwt_coefficients__coeff_1__w_5__widths_(2, 5, 10, 20)",50947714302.83434
+149,0__symmetry_looking__r_0.05,10.368126926302477
+150,0__lempel_ziv_complexity__bins_100,6.884695313030867
+151,"0__cwt_coefficients__coeff_14__w_2__widths_(2, 5, 10, 20)",12641664.67666863
+152,"0__cwt_coefficients__coeff_5__w_5__widths_(2, 5, 10, 20)",68430763568.78246
+153,0__fourier_entropy__bins_5,7.318245658243357
+154,"0__agg_autocorrelation__f_agg_""mean""__maxlag_40",6.22241560428726
+155,0__energy_ratio_by_chunks__num_segments_10__segment_focus_4,20.12828745753307
+156,"0__fft_coefficient__attr_""real""__coeff_2",5361782388.444113
+157,"0__agg_linear_trend__attr_""stderr""__chunk_len_10__f_agg_""min""",1.7944320246698897
+158,"0__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""min""",2.0792264878839855
+159,0__fourier_entropy__bins_10,6.99311533354022
+160,"0__cwt_coefficients__coeff_0__w_2__widths_(2, 5, 10, 20)",16366251516.740181
+161,0__large_standard_deviation__r_0.2,10.020125245904792
+162,0__number_crossing_m__m_0,27.78228734072309
+163,0__energy_ratio_by_chunks__num_segments_10__segment_focus_2,30.645181071383977
+164,0__ar_coefficient__coeff_0__k_10,4757.605380911854
+165,0__count_above__t_0,54.82448592008683
+166,0__range_count__max_0__min_-1000000000000.0,48.415539599334856
+167,0__range_count__max_1000000000000.0__min_0,53.197515241748704
+168,0__count_below__t_0,43.67784672687663
+169,0__ar_coefficient__coeff_1__k_10,3.6795758478156526
+170,0__benford_correlation,3.730361162338003
+171,0__autocorrelation__lag_1,9.110494300733135
+172,0__partial_autocorrelation__lag_1,9.308744132240012
+173,"0__fft_coefficient__attr_""angle""__coeff_3",1296.7257357110386
+174,"0__augmented_dickey_fuller__attr_""usedlag""__autolag_""AIC""",57.730375827176864
+175,0__fourier_entropy__bins_2,4.673149773050013
+176,0__partial_autocorrelation__lag_2,41.615305577842854
+177,0__cid_ce__normalize_True,6.791920647123281
+178,"0__cwt_coefficients__coeff_13__w_2__widths_(2, 5, 10, 20)",13623773.808437577
+179,"0__fft_coefficient__attr_""angle""__coeff_6",1735.027003292383
+180,0__ratio_beyond_r_sigma__r_1.5,10.748600551310894
+181,"0__agg_autocorrelation__f_agg_""median""__maxlag_40",9.049142986696795
+182,"0__fft_coefficient__attr_""angle""__coeff_4",1682.740977644027
+183,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.4",26500.600311691647
+184,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.4",11737.090942389548
+185,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.6",20933.09450486298
+186,0__autocorrelation__lag_2,32.93441171108659
+187,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.6",22957.106833679245
+188,0__quantile__q_0.2,5.090661199495824
+189,"0__cwt_coefficients__coeff_12__w_5__widths_(2, 5, 10, 20)",17613928237.08365
+190,0__partial_autocorrelation__lag_8,2.6787947638382343
+191,"0__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.4",132642170864.73938
+192,"0__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.4",143241984935.68793
+193,0__autocorrelation__lag_6,12.001139575552001
+194,"0__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.6",141620403055.62793
+195,"0__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.6",146761593123.05072
+196,"0__fft_coefficient__attr_""angle""__coeff_5",1350.4673765233267
+197,"0__cwt_coefficients__coeff_8__w_2__widths_(2, 5, 10, 20)",6302447281.75171
+198,"0__fft_coefficient__attr_""real""__coeff_1",18674930812.313515
+199,"0__cwt_coefficients__coeff_7__w_2__widths_(2, 5, 10, 20)",26651672549.239532
+200,0__c3__lag_1,12699.891021640977
+201,"0__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""mean""",14.147100281700471
+202,"0__cwt_coefficients__coeff_4__w_5__widths_(2, 5, 10, 20)",130386057740.05865
+203,"0__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.0",24880.053131605
+204,"0__cwt_coefficients__coeff_4__w_2__widths_(2, 5, 10, 20)",25265210837.239742
+205,"0__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.0",15985.673904028856
+206,0__ar_coefficient__coeff_2__k_10,6.843504963071795
+207,0__ratio_beyond_r_sigma__r_2,8.812148085930083
+208,0__count_above_mean,53.756352298432105
+209,0__count_below_mean,50.00045216931071
+210,0__range_count__max_1__min_-1,12.830204068993341
+211,"0__cwt_coefficients__coeff_6__w_2__widths_(2, 5, 10, 20)",49336674160.25433
+212,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.8",3085.745052451184
+213,"0__cwt_coefficients__coeff_2__w_5__widths_(2, 5, 10, 20)",88980205426.8228
+214,0__number_cwt_peaks__n_1,2.807946714094415
+215,0__fourier_entropy__bins_100,7.192356991804062
+216,"0__fft_coefficient__attr_""imag""__coeff_2",5768565220.260551
+217,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.2__ql_0.0",1.892586419922203
+218,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.0",173.34841004930985
+219,0__index_mass_quantile__q_0.9,9.231298912895628
+220,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.0",4.455681709821452
+221,0__lempel_ziv_complexity__bins_2,6.582046524212074
+222,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.8",2494.089183861729
+223,0__number_cwt_peaks__n_5,2.4852622801246897
+224,"0__fft_coefficient__attr_""imag""__coeff_3",4451202299.501909
+225,"0__change_quantiles__f_agg_""var""__isabs_True__qh_0.2__ql_0.0",2.0997524593153196
+226,0__partial_autocorrelation__lag_7,3.719385207145937
+227,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.2",1133.9608348037762
+228,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.4__ql_0.0",3.203310492894461
+229,0__ratio_beyond_r_sigma__r_2.5,4.729827850898732
+230,0__quantile__q_0.8,601.7288658241293
+231,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.6__ql_0.0",3.3592678030027296
+232,"0__fft_aggregated__aggtype_""skew""",9.526993596511353
+233,0__number_peaks__n_10,15.537422966140069
+234,"0__fft_coefficient__attr_""angle""__coeff_8",1402.2592649039439
+235,"0__linear_trend__attr_""rvalue""",13.08993278408537
+236,"0__cwt_coefficients__coeff_12__w_2__widths_(2, 5, 10, 20)",65021792.86174679
+237,"0__change_quantiles__f_agg_""var""__isabs_False__qh_0.2__ql_0.0",1.4276794891563511
+238,"0__fft_coefficient__attr_""angle""__coeff_7",1373.2737569513706
+239,"0__linear_trend__attr_""pvalue""",13.14622434977451
+240,0__ar_coefficient__coeff_3__k_10,4.004276946594701
+241,0__time_reversal_asymmetry_statistic__lag_2,15583926.30803179
+242,"0__fft_coefficient__attr_""angle""__coeff_2",5582.730359669929
+243,"0__cwt_coefficients__coeff_9__w_2__widths_(2, 5, 10, 20)",1164193580.7707176
+244,0__quantile__q_0.3,4.4931838646512015
+245,"0__fft_coefficient__attr_""angle""__coeff_9",1159.5172123130078
+246,0__lempel_ziv_complexity__bins_10,5.554826532719208
+247,0__ar_coefficient__coeff_8__k_10,137.15667036831272
+248,0__kurtosis,365.7624542785436
+249,0__variation_coefficient,34.47292076036579
+250,0__ar_coefficient__coeff_7__k_10,89.05786802565176
+251,"0__cwt_coefficients__coeff_14__w_5__widths_(2, 5, 10, 20)",14722818072.919395
+252,0__time_reversal_asymmetry_statistic__lag_1,192662422.51329195
+253,"0__fft_coefficient__attr_""real""__coeff_5",2351455067.3012414
+254,"0__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.0",2.206426078443954
+255,"0__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.8",5024154820.388342
+256,0__ratio_beyond_r_sigma__r_0.5,6.6894035794623985
+257,0__index_mass_quantile__q_0.6,9.819859069160927
+258,"0__change_quantiles__f_agg_""var""__isabs_True__qh_0.4__ql_0.0",2.2774197481841334
+259,0__lempel_ziv_complexity__bins_3,6.104535583021514
+260,"0__fft_coefficient__attr_""real""__coeff_4",926579175.065582
+261,"0__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.8",5027817474.637347
+262,"0__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.0",2.5541216058576737
+263,0__skewness,156.12337901733093
+264,"0__fft_coefficient__attr_""angle""__coeff_13",404110.0471369474
+265,"0__change_quantiles__f_agg_""var""__isabs_False__qh_0.4__ql_0.0",2.1758151405683974
+266,0__large_standard_deviation__r_0.25,4.88969552563912
+267,0__time_reversal_asymmetry_statistic__lag_3,87778344408.02814
+268,"0__fft_coefficient__attr_""angle""__coeff_12",1888.0915267388536
+269,0__ar_coefficient__coeff_4__k_10,4.95214417234416
+270,0__partial_autocorrelation__lag_9,2.248990536478268
+271,"0__fft_aggregated__aggtype_""kurtosis""",75.73217542674584
+272,"0__agg_autocorrelation__f_agg_""var""__maxlag_40",9.421867201490752
+273,0__ratio_beyond_r_sigma__r_1,9.615234766072817
+274,0__partial_autocorrelation__lag_6,9.873643467552997
+275,0__autocorrelation__lag_5,14.041812152964606
+276,0__binned_entropy__max_bins_10,7.4836083612758655
+277,0__partial_autocorrelation__lag_3,17.939213643225987
+278,"0__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""mean""",27.643947319649246
+279,"0__fft_aggregated__aggtype_""variance""",177.522139246355
+280,"0__fft_coefficient__attr_""imag""__coeff_4",4227969818.934517
+281,0__c3__lag_2,5991.320080318614
+282,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.2",63.80882466048179
+283,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.6__ql_0.0",3.6668451685808954
+284,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.4__ql_0.0",3.0685144592140183
+285,"0__cwt_coefficients__coeff_11__w_2__widths_(2, 5, 10, 20)",75374729.13661386
+286,"0__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.4",124.11430504872344
+287,"0__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.4",125.51890535175671
+288,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.4",25.11685405598465
+289,0__symmetry_looking__r_0.1,3.6754855552992063
+290,"0__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.2",1259.8040377266707
+291,"0__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.2",1479.9812002254773
+292,0__ar_coefficient__coeff_10__k_10,183.42699252387533
+293,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.6",18.983256648740003
+294,0__ar_coefficient__coeff_5__k_10,7.057792291399549
+295,"0__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.6",53.856104004996865
+296,"0__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.6",52.79852777294406
+297,"0__fft_coefficient__attr_""angle""__coeff_10",1308.51140590276
+298,"0__fft_coefficient__attr_""imag""__coeff_9",1800006325.9102435
+299,"0__fft_coefficient__attr_""angle""__coeff_11",1359.8978379791693
+300,"0__fft_coefficient__attr_""real""__coeff_3",114284773.88141753
+301,"0__fft_coefficient__attr_""imag""__coeff_6",233167386.6834932
+302,"0__augmented_dickey_fuller__attr_""pvalue""__autolag_""AIC""",2.5627030024770914
+303,0__ar_coefficient__coeff_6__k_10,100.30630900274267
+304,"0__fft_coefficient__attr_""real""__coeff_8",467609880.8159019
+305,"0__fft_coefficient__attr_""real""__coeff_9",176824230.40936077
+306,"0__augmented_dickey_fuller__attr_""teststat""__autolag_""AIC""",7583.89915200146
+307,"0__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""var""",39.40931736977129
+308,"0__fft_coefficient__attr_""imag""__coeff_8",359636266.11907995
+309,0__quantile__q_0.7,54.56385337896939
+310,"0__cwt_coefficients__coeff_13__w_5__widths_(2, 5, 10, 20)",21447755154.636135
+311,"0__fft_aggregated__aggtype_""centroid""",23.566988478036443
+312,"0__cwt_coefficients__coeff_5__w_2__widths_(2, 5, 10, 20)",16184629083.785528
+313,0__energy_ratio_by_chunks__num_segments_10__segment_focus_3,35.978614224509414
+314,"0__cwt_coefficients__coeff_3__w_5__widths_(2, 5, 10, 20)",151907431691.92484
+315,"0__fft_coefficient__attr_""real""__coeff_13",896587107.203445
+316,"0__fft_coefficient__attr_""imag""__coeff_12",180970429.99630114
+317,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.4__ql_0.2",1.847022644494751
+318,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.6__ql_0.2",2.460445661614669
+319,0__autocorrelation__lag_3,17.17986313505286
+320,"0__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""max""",47.961003182397164
+321,0__ratio_beyond_r_sigma__r_3,2.114938866444936
+322,"0__fft_coefficient__attr_""imag""__coeff_10",1788995952.8990233
+323,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.2__ql_0.0",1.5981059095839083
+324,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.2",7.468153352216793
+325,0__quantile__q_0.4,8.16601387692645
+326,"0__cwt_coefficients__coeff_10__w_2__widths_(2, 5, 10, 20)",137041519.26495326
+327,"0__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""min""",7.628269643560306
+328,0__ar_coefficient__coeff_9__k_10,6.956038052330131
+329,0__energy_ratio_by_chunks__num_segments_10__segment_focus_1,20.189471423057647
+330,"0__fft_coefficient__attr_""real""__coeff_7",4224771073.665203
+331,0__mean_change,859391.9285922082
+332,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.0",1334784.4657140612
+333,"0__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""min""",11.491040470770388
+334,0__median,87.12617577511314
+335,"0__fft_coefficient__attr_""imag""__coeff_7",91761463.31735048
+336,"0__fft_coefficient__attr_""real""__coeff_11",616662278.4958998
+337,0__index_mass_quantile__q_0.7,8.02123694057745
+338,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.6__ql_0.4",28.233459706846897
+339,0__lempel_ziv_complexity__bins_5,6.361861329024354
+340,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.6__ql_0.2",4.510119302680388
+341,"0__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.4",1.7269217881417993
+342,"0__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.4",1.7269217881417993
+343,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.4__ql_0.2",2.507103462067459
+344,0__partial_autocorrelation__lag_5,6.656708473029176
+345,"0__fft_coefficient__attr_""imag""__coeff_5",528644432.050591
+346,0__sum_of_reoccurring_values,295.96002463856763
+347,0__mean_second_derivative_central,191050.51480030385
+348,"0__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.2",4.903531486228481
+349,"0__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.2",4.403158540865584
+350,0__quantile__q_0.6,10.572117374291823
+351,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.6__ql_0.4",28.37020659607306
+352,0__c3__lag_3,6086.550105744876
+353,"0__fft_coefficient__attr_""imag""__coeff_11",891635055.8896396
+354,0__partial_autocorrelation__lag_4,8.800942912671012
+355,"0__fft_coefficient__attr_""real""__coeff_12",3113367431.357934
+356,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.4",11.314435098894215
+357,"0__fft_coefficient__attr_""real""__coeff_6",3991715945.5225
+358,0__autocorrelation__lag_4,9.747655561278682
+359,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.6",24.748739905788213
+360,"0__change_quantiles__f_agg_""var""__isabs_False__qh_0.4__ql_0.2",1.7708821057705308
+361,"0__fft_coefficient__attr_""real""__coeff_10",24390325.498119317
+362,"0__change_quantiles__f_agg_""var""__isabs_True__qh_0.4__ql_0.2",1.7359009244572454
+363,0__index_mass_quantile__q_0.8,7.302787545686751
+364,0__friedrich_coefficients__coeff_3__m_3__r_30,3807.3812008736736
+365,0__friedrich_coefficients__coeff_1__m_3__r_30,819.9652848800557
+366,0__friedrich_coefficients__coeff_0__m_3__r_30,1078.620855238044
+367,0__large_standard_deviation__r_0.30000000000000004,2.0684082802264188
+368,0__friedrich_coefficients__coeff_2__m_3__r_30,207.84732610757519
+369,0__max_langevin_fixed_point__m_3__r_30,240024.46591874628
+370,y,2.206641465005699
+371,0__number_peaks__n_5:Log_0__number_peaks__n_5,9.331875937372335
+372,0__number_peaks__n_3:Log_0__number_peaks__n_3,5.257136033705528
+373,0__energy_ratio_by_chunks__num_segments_10__segment_focus_0:Log_0__energy_ratio_by_chunks__num_segments_10__segment_focus_0,17.029774579018067
+374,0__minimum:Log_0__minimum,2.004573193595569
+375,"0__cwt_coefficients__coeff_13__w_10__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_13__w_10__widths_(2, 5, 10, 20)",960092015.7266343
+376,"0__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""min"":Log_0__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""min""",6.562317704284043
+377,0__spkt_welch_density__coeff_2:Log_0__spkt_welch_density__coeff_2,9124503876.578283
+378,0__spkt_welch_density__coeff_5:Log_0__spkt_welch_density__coeff_5,3058242235.384371
+379,0__spkt_welch_density__coeff_8:Log_0__spkt_welch_density__coeff_8,3934621833.3005676
+380,0__quantile__q_0.9:Log_0__quantile__q_0.9,1647.3343383208187
+381,"0__cwt_coefficients__coeff_14__w_10__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_14__w_10__widths_(2, 5, 10, 20)",1344418696.8936498
+382,"0__cwt_coefficients__coeff_10__w_10__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_10__w_10__widths_(2, 5, 10, 20)",105148131665.62761
+383,0__longest_strike_below_mean:Log_0__longest_strike_below_mean,29.38971703690649
+384,"0__cwt_coefficients__coeff_11__w_10__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_11__w_10__widths_(2, 5, 10, 20)",21586073383.694912
+385,"0__cwt_coefficients__coeff_9__w_10__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_9__w_10__widths_(2, 5, 10, 20)",583972980727.5021
+386,"0__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""min"":Log_0__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""min""",7.819852621080286
+387,"0__cwt_coefficients__coeff_14__w_20__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_14__w_20__widths_(2, 5, 10, 20)",47777213922.50891
+388,0__absolute_sum_of_changes:Log_0__absolute_sum_of_changes,94535981598.49065
+389,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.0:Log_0__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.0",2088868101748.8386
+390,0__mean_abs_change:Log_0__mean_abs_change,2088868101748.8386
+391,"0__cwt_coefficients__coeff_13__w_20__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_13__w_20__widths_(2, 5, 10, 20)",931939912544.3344
+392,"0__cwt_coefficients__coeff_12__w_20__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_12__w_20__widths_(2, 5, 10, 20)",1370958790675.9502
+393,"0__cwt_coefficients__coeff_8__w_10__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_8__w_10__widths_(2, 5, 10, 20)",921264115244.0414
+394,"0__cwt_coefficients__coeff_10__w_20__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_10__w_20__widths_(2, 5, 10, 20)",1571937042712.215
+395,"0__cwt_coefficients__coeff_11__w_20__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_11__w_20__widths_(2, 5, 10, 20)",2055968786747.5444
+396,"0__cwt_coefficients__coeff_9__w_20__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_9__w_20__widths_(2, 5, 10, 20)",483218844138.4652
+397,"0__cwt_coefficients__coeff_12__w_10__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_12__w_10__widths_(2, 5, 10, 20)",1004917959.3332402
+398,"0__cwt_coefficients__coeff_8__w_20__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_8__w_20__widths_(2, 5, 10, 20)",869924594817.5576
+399,"0__cwt_coefficients__coeff_7__w_20__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_7__w_20__widths_(2, 5, 10, 20)",609830687524.7794
+400,"0__fft_coefficient__attr_""abs""__coeff_2:Log_0__fft_coefficient__attr_""abs""__coeff_2",4551768719.84829
+401,"0__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.0:Log_0__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.0",inf
+402,0__cid_ce__normalize_False:Log_0__cid_ce__normalize_False,120657449394.39514
+403,"0__cwt_coefficients__coeff_6__w_20__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_6__w_20__widths_(2, 5, 10, 20)",960153422315.424
+404,"0__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.0:Log_0__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.0",inf
+405,0__mean_n_absolute_max__number_of_maxima_7:Log_0__mean_n_absolute_max__number_of_maxima_7,413990865226.86914
+406,"0__cwt_coefficients__coeff_7__w_10__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_7__w_10__widths_(2, 5, 10, 20)",506249958112.6907
+407,"0__cwt_coefficients__coeff_5__w_20__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_5__w_20__widths_(2, 5, 10, 20)",260143231710.40295
+408,"0__fft_coefficient__attr_""real""__coeff_0:Log_0__fft_coefficient__attr_""real""__coeff_0",19205115681750.516
+409,"0__fft_coefficient__attr_""abs""__coeff_0:Log_0__fft_coefficient__attr_""abs""__coeff_0",19205115681750.516
+410,0__sum_values:Log_0__sum_values,24212901222422.023
+411,0__mean:Log_0__mean,1762661302297.6501
+412,"0__fft_coefficient__attr_""abs""__coeff_1:Log_0__fft_coefficient__attr_""abs""__coeff_1",8259318009.02388
+413,"0__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""mean"":Log_0__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""mean""",63199222.442519166
+414,0__energy_ratio_by_chunks__num_segments_10__segment_focus_9:Log_0__energy_ratio_by_chunks__num_segments_10__segment_focus_9,7.183775199823986
+415,0__abs_energy:Log_0__abs_energy,inf
+416,0__root_mean_square:Log_0__root_mean_square,245628558896.67282
+417,0__standard_deviation:Log_0__standard_deviation,97673956588.70915
+418,0__variance:Log_0__variance,inf
+419,"0__cwt_coefficients__coeff_4__w_20__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_4__w_20__widths_(2, 5, 10, 20)",121644935576.21706
+420,"0__linear_trend__attr_""stderr"":Log_0__linear_trend__attr_""stderr""",20383582277.60841
+421,"0__cwt_coefficients__coeff_3__w_20__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_3__w_20__widths_(2, 5, 10, 20)",55502010368.98434
+422,0__absolute_maximum:Log_0__absolute_maximum,145277407334532.12
+423,0__maximum:Log_0__maximum,145277407334532.12
+424,"0__fft_coefficient__attr_""abs""__coeff_11:Log_0__fft_coefficient__attr_""abs""__coeff_11",2315722436.9029064
+425,0__energy_ratio_by_chunks__num_segments_10__segment_focus_8:Log_0__energy_ratio_by_chunks__num_segments_10__segment_focus_8,681.5840443853913
+426,"0__agg_linear_trend__attr_""stderr""__chunk_len_10__f_agg_""var"":Log_0__agg_linear_trend__attr_""stderr""__chunk_len_10__f_agg_""var""",692861481133922.5
+427,"0__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""max"":Log_0__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""max""",7148678634.630992
+428,"0__cwt_coefficients__coeff_2__w_20__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_2__w_20__widths_(2, 5, 10, 20)",64121414774.15974
+429,"0__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""min"":Log_0__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""min""",6.530134907203479
+430,"0__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""max"":Log_0__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""max""",877958585.7509305
+431,"0__fft_coefficient__attr_""abs""__coeff_12:Log_0__fft_coefficient__attr_""abs""__coeff_12",3013172848.90612
+432,0__energy_ratio_by_chunks__num_segments_10__segment_focus_7:Log_0__energy_ratio_by_chunks__num_segments_10__segment_focus_7,1011.0907538325336
+433,"0__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""mean"":Log_0__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""mean""",16509522513.345514
+434,"0__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""mean"":Log_0__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""mean""",31231620162.070015
+435,"0__cwt_coefficients__coeff_6__w_10__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_6__w_10__widths_(2, 5, 10, 20)",162925968720.4434
+436,"0__cwt_coefficients__coeff_1__w_20__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_1__w_20__widths_(2, 5, 10, 20)",18946729157.883095
+437,"0__agg_linear_trend__attr_""stderr""__chunk_len_10__f_agg_""mean"":Log_0__agg_linear_trend__attr_""stderr""__chunk_len_10__f_agg_""mean""",128511573.90752265
+438,"0__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""min"":Log_0__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""min""",86.79732470049025
+439,"0__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""var"":Log_0__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""var""",3002399751580330.5
+440,"0__fft_coefficient__attr_""abs""__coeff_10:Log_0__fft_coefficient__attr_""abs""__coeff_10",1426756478.5921552
+441,"0__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""var"":Log_0__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""var""",inf
+442,"0__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""max"":Log_0__agg_linear_trend__attr_""intercept""__chunk_len_10__f_agg_""max""",10234337225.417446
+443,"0__fft_coefficient__attr_""abs""__coeff_9:Log_0__fft_coefficient__attr_""abs""__coeff_9",1690577842.140834
+444,0__energy_ratio_by_chunks__num_segments_10__segment_focus_6:Log_0__energy_ratio_by_chunks__num_segments_10__segment_focus_6,424.025053611882
+445,"0__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""var"":Log_0__agg_linear_trend__attr_""intercept""__chunk_len_5__f_agg_""var""",inf
+446,"0__cwt_coefficients__coeff_0__w_20__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_0__w_20__widths_(2, 5, 10, 20)",5861135263.017095
+447,"0__cwt_coefficients__coeff_5__w_10__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_5__w_10__widths_(2, 5, 10, 20)",79038946066.05
+448,"0__agg_linear_trend__attr_""stderr""__chunk_len_10__f_agg_""max"":Log_0__agg_linear_trend__attr_""stderr""__chunk_len_10__f_agg_""max""",233120520.89523214
+449,"0__cwt_coefficients__coeff_8__w_5__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_8__w_5__widths_(2, 5, 10, 20)",105985568.8518774
+450,0__index_mass_quantile__q_0.3:Log_0__index_mass_quantile__q_0.3,18.78516622028489
+451,"0__linear_trend__attr_""intercept"":Log_0__linear_trend__attr_""intercept""",444734076667.2094
+452,"0__fft_coefficient__attr_""abs""__coeff_5:Log_0__fft_coefficient__attr_""abs""__coeff_5",1423343012.9801512
+453,"0__cwt_coefficients__coeff_9__w_5__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_9__w_5__widths_(2, 5, 10, 20)",829640706.8103358
+454,"0__fft_coefficient__attr_""abs""__coeff_8:Log_0__fft_coefficient__attr_""abs""__coeff_8",1224845198.5676675
+455,"0__fft_coefficient__attr_""abs""__coeff_13:Log_0__fft_coefficient__attr_""abs""__coeff_13",730250651.5310758
+456,"0__cwt_coefficients__coeff_4__w_10__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_4__w_10__widths_(2, 5, 10, 20)",59757969685.40014
+457,"0__fft_coefficient__attr_""abs""__coeff_6:Log_0__fft_coefficient__attr_""abs""__coeff_6",1413687439.7490845
+458,0__number_crossing_m__m_1:Log_0__number_crossing_m__m_1,21.400409832733374
+459,0__longest_strike_above_mean:Log_0__longest_strike_above_mean,6.76744796345474
+460,"0__fft_coefficient__attr_""abs""__coeff_3:Log_0__fft_coefficient__attr_""abs""__coeff_3",1126100493.4930274
+461,"0__fft_coefficient__attr_""abs""__coeff_7:Log_0__fft_coefficient__attr_""abs""__coeff_7",1434906707.5969503
+462,"0__fft_coefficient__attr_""abs""__coeff_4:Log_0__fft_coefficient__attr_""abs""__coeff_4",1761116276.022619
+463,"0__cwt_coefficients__coeff_0__w_5__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_0__w_5__widths_(2, 5, 10, 20)",1091759627.9858325
+464,"0__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""mean"":Log_0__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""mean""",3670235870.593529
+465,0__permutation_entropy__dimension_7__tau_1:Log_0__permutation_entropy__dimension_7__tau_1,29.26802015610107
+466,0__permutation_entropy__dimension_6__tau_1:Log_0__permutation_entropy__dimension_6__tau_1,30.57081605738086
+467,"0__cwt_coefficients__coeff_10__w_5__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_10__w_5__widths_(2, 5, 10, 20)",802618084.1208365
+468,"0__cwt_coefficients__coeff_3__w_10__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_3__w_10__widths_(2, 5, 10, 20)",22902822817.23914
+469,"0__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""mean"":Log_0__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""mean""",16098226597.572884
+470,"0__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""var"":Log_0__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""var""",inf
+471,0__index_mass_quantile__q_0.2:Log_0__index_mass_quantile__q_0.2,15.835187532436919
+472,"0__cwt_coefficients__coeff_1__w_2__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_1__w_2__widths_(2, 5, 10, 20)",517699014.98782176
+473,"0__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""max"":Log_0__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""max""",4222590455.169426
+474,"0__fft_coefficient__attr_""imag""__coeff_1:Log_0__fft_coefficient__attr_""imag""__coeff_1",4272242730.6559205
+475,"0__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""max"":Log_0__agg_linear_trend__attr_""slope""__chunk_len_10__f_agg_""max""",3860038558.7083974
+476,0__permutation_entropy__dimension_5__tau_1:Log_0__permutation_entropy__dimension_5__tau_1,23.400169075034295
+477,0__energy_ratio_by_chunks__num_segments_10__segment_focus_5:Log_0__energy_ratio_by_chunks__num_segments_10__segment_focus_5,42.93615498124681
+478,0__last_location_of_maximum:Log_0__last_location_of_maximum,19.212246130255767
+479,0__first_location_of_maximum:Log_0__first_location_of_maximum,18.47427300794846
+480,"0__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""var"":Log_0__agg_linear_trend__attr_""slope""__chunk_len_5__f_agg_""var""",inf
+481,"0__cwt_coefficients__coeff_2__w_10__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_2__w_10__widths_(2, 5, 10, 20)",19039766071.49635
+482,0__index_mass_quantile__q_0.1:Log_0__index_mass_quantile__q_0.1,11.68025340262929
+483,"0__cwt_coefficients__coeff_2__w_2__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_2__w_2__widths_(2, 5, 10, 20)",2228382301.1777463
+484,"0__linear_trend__attr_""slope"":Log_0__linear_trend__attr_""slope""",21173880220.457817
+485,0__index_mass_quantile__q_0.4:Log_0__index_mass_quantile__q_0.4,17.299810879420846
+486,0__approximate_entropy__m_2__r_0.1:Log_0__approximate_entropy__m_2__r_0.1,5.973896583780112
+487,"0__cwt_coefficients__coeff_7__w_5__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_7__w_5__widths_(2, 5, 10, 20)",88791089.62475058
+488,"0__fft_coefficient__attr_""angle""__coeff_1:Log_0__fft_coefficient__attr_""angle""__coeff_1",715.767718486347
+489,"0__cwt_coefficients__coeff_1__w_10__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_1__w_10__widths_(2, 5, 10, 20)",8659436293.205845
+490,0__ratio_value_number_to_time_series_length:Log_0__ratio_value_number_to_time_series_length,86.68176753483101
+491,0__value_count__value_1:Log_0__value_count__value_1,36.088770814010786
+492,0__percentage_of_reoccurring_datapoints_to_all_datapoints:Log_0__percentage_of_reoccurring_datapoints_to_all_datapoints,46.878538077330695
+493,0__sum_of_reoccurring_data_points:Log_0__sum_of_reoccurring_data_points,40.86692279542106
+494,0__percentage_of_reoccurring_values_to_all_values:Log_0__percentage_of_reoccurring_values_to_all_values,17.017415984571503
+495,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.2:Log_0__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.2",10138.51010801424
+496,0__permutation_entropy__dimension_4__tau_1:Log_0__permutation_entropy__dimension_4__tau_1,14.803877266380894
+497,0__permutation_entropy__dimension_3__tau_1:Log_0__permutation_entropy__dimension_3__tau_1,11.732466649870197
+498,"0__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.2:Log_0__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.2",2103210.8348775194
+499,"0__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.2:Log_0__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.2",1473259.2159339013
+500,"0__cwt_coefficients__coeff_6__w_5__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_6__w_5__widths_(2, 5, 10, 20)",424400788.26172084
+501,0__number_peaks__n_1:Log_0__number_peaks__n_1,13.6495788378977
+502,0__approximate_entropy__m_2__r_0.3:Log_0__approximate_entropy__m_2__r_0.3,7.730534695857185
+503,0__autocorrelation__lag_9:Log_0__autocorrelation__lag_9,10.26530247095403
+504,0__last_location_of_minimum:Log_0__last_location_of_minimum,4.126671771604713
+505,0__first_location_of_minimum:Log_0__first_location_of_minimum,4.199310649858476
+506,0__quantile__q_0.1:Log_0__quantile__q_0.1,3.773917950562879
+507,0__autocorrelation__lag_7:Log_0__autocorrelation__lag_7,8.75073033032812
+508,"0__cwt_coefficients__coeff_11__w_5__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_11__w_5__widths_(2, 5, 10, 20)",265009599.0591144
+509,0__sample_entropy:Log_0__sample_entropy,7.186049120892455
+510,0__approximate_entropy__m_2__r_0.9:Log_0__approximate_entropy__m_2__r_0.9,8.822839510244865
+511,0__approximate_entropy__m_2__r_0.5:Log_0__approximate_entropy__m_2__r_0.5,7.42899356520114
+512,"0__cwt_coefficients__coeff_3__w_2__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_3__w_2__widths_(2, 5, 10, 20)",578652893.1484884
+513,0__autocorrelation__lag_8:Log_0__autocorrelation__lag_8,7.075196156001027
+514,0__fourier_entropy__bins_3:Log_0__fourier_entropy__bins_3,6.341714374681257
+515,"0__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""var"":Log_0__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""var""",31.33558958517842
+516,0__approximate_entropy__m_2__r_0.7:Log_0__approximate_entropy__m_2__r_0.7,8.432592834009707
+517,"0__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""max"":Log_0__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""max""",33.72900706217143
+518,"0__cwt_coefficients__coeff_0__w_10__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_0__w_10__widths_(2, 5, 10, 20)",3232294546.32464
+519,"0__cwt_coefficients__coeff_1__w_5__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_1__w_5__widths_(2, 5, 10, 20)",723208709.3648511
+520,0__symmetry_looking__r_0.05:Log_0__symmetry_looking__r_0.05,10.66329962836473
+521,0__lempel_ziv_complexity__bins_100:Log_0__lempel_ziv_complexity__bins_100,6.71969595965269
+522,"0__cwt_coefficients__coeff_14__w_2__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_14__w_2__widths_(2, 5, 10, 20)",8016.0016271261065
+523,"0__cwt_coefficients__coeff_5__w_5__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_5__w_5__widths_(2, 5, 10, 20)",628619077.5312275
+524,0__fourier_entropy__bins_5:Log_0__fourier_entropy__bins_5,7.468646284874544
+525,"0__agg_autocorrelation__f_agg_""mean""__maxlag_40:Log_0__agg_autocorrelation__f_agg_""mean""__maxlag_40",6.3933816568377715
+526,0__energy_ratio_by_chunks__num_segments_10__segment_focus_4:Log_0__energy_ratio_by_chunks__num_segments_10__segment_focus_4,18.606449170661886
+527,"0__fft_coefficient__attr_""real""__coeff_2:Log_0__fft_coefficient__attr_""real""__coeff_2",85425043.58900645
+528,"0__agg_linear_trend__attr_""stderr""__chunk_len_10__f_agg_""min"":Log_0__agg_linear_trend__attr_""stderr""__chunk_len_10__f_agg_""min""",1.797929346334252
+529,"0__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""min"":Log_0__agg_linear_trend__attr_""stderr""__chunk_len_5__f_agg_""min""",2.0750308733941005
+530,0__fourier_entropy__bins_10:Log_0__fourier_entropy__bins_10,7.055579805003938
+531,"0__cwt_coefficients__coeff_0__w_2__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_0__w_2__widths_(2, 5, 10, 20)",353228597.7594105
+532,0__large_standard_deviation__r_0.2:Log_0__large_standard_deviation__r_0.2,9.58910833800373
+533,0__number_crossing_m__m_0:Log_0__number_crossing_m__m_0,10.872084392488631
+534,0__energy_ratio_by_chunks__num_segments_10__segment_focus_2:Log_0__energy_ratio_by_chunks__num_segments_10__segment_focus_2,32.71988062461948
+535,0__ar_coefficient__coeff_0__k_10:Log_0__ar_coefficient__coeff_0__k_10,6564.480780710582
+536,0__count_above__t_0:Log_0__count_above__t_0,57.347506413191304
+537,0__range_count__max_0__min_-1000000000000.0:Log_0__range_count__max_0__min_-1000000000000.0,24.674656831509978
+538,0__range_count__max_1000000000000.0__min_0:Log_0__range_count__max_1000000000000.0__min_0,9.048606381751188
+539,0__count_below__t_0:Log_0__count_below__t_0,50.395450265736145
+540,0__ar_coefficient__coeff_1__k_10:Log_0__ar_coefficient__coeff_1__k_10,3.4246880446462065
+541,0__benford_correlation:Log_0__benford_correlation,3.532466820204998
+542,0__autocorrelation__lag_1:Log_0__autocorrelation__lag_1,9.09627108891404
+543,0__partial_autocorrelation__lag_1:Log_0__partial_autocorrelation__lag_1,8.92688178584196
+544,"0__fft_coefficient__attr_""angle""__coeff_3:Log_0__fft_coefficient__attr_""angle""__coeff_3",988.4505415420296
+545,"0__augmented_dickey_fuller__attr_""usedlag""__autolag_""AIC"":Log_0__augmented_dickey_fuller__attr_""usedlag""__autolag_""AIC""",5.953502002241457
+546,0__fourier_entropy__bins_2:Log_0__fourier_entropy__bins_2,4.807961590167386
+547,0__partial_autocorrelation__lag_2:Log_0__partial_autocorrelation__lag_2,43.712384602902404
+548,0__cid_ce__normalize_True:Log_0__cid_ce__normalize_True,6.815836820522448
+549,"0__cwt_coefficients__coeff_13__w_2__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_13__w_2__widths_(2, 5, 10, 20)",11069.437610045741
+550,"0__fft_coefficient__attr_""angle""__coeff_6:Log_0__fft_coefficient__attr_""angle""__coeff_6",1371.7567784200935
+551,0__ratio_beyond_r_sigma__r_1.5:Log_0__ratio_beyond_r_sigma__r_1.5,10.09663384646876
+552,"0__agg_autocorrelation__f_agg_""median""__maxlag_40:Log_0__agg_autocorrelation__f_agg_""median""__maxlag_40",9.185945056485672
+553,"0__fft_coefficient__attr_""angle""__coeff_4:Log_0__fft_coefficient__attr_""angle""__coeff_4",985.5360768040352
+554,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.4:Log_0__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.4",326662.4208945773
+555,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.4:Log_0__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.4",297004.18972236884
+556,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.6:Log_0__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.6",418402.8560945453
+557,0__autocorrelation__lag_2:Log_0__autocorrelation__lag_2,35.88201489682481
+558,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.6:Log_0__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.6",371720.41537273925
+559,0__quantile__q_0.2:Log_0__quantile__q_0.2,4.721535895767388
+560,"0__cwt_coefficients__coeff_12__w_5__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_12__w_5__widths_(2, 5, 10, 20)",216826783.73194745
+561,0__partial_autocorrelation__lag_8:Log_0__partial_autocorrelation__lag_8,1.320986969535544
+562,"0__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.4:Log_0__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.4",173408787777.5402
+563,"0__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.4:Log_0__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.4",183423599045.758
+564,0__autocorrelation__lag_6:Log_0__autocorrelation__lag_6,12.265099648246856
+565,"0__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.6:Log_0__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.6",182402123382.29263
+566,"0__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.6:Log_0__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.6",196982007058.15054
+567,"0__fft_coefficient__attr_""angle""__coeff_5:Log_0__fft_coefficient__attr_""angle""__coeff_5",1040.8909384361125
+568,"0__cwt_coefficients__coeff_8__w_2__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_8__w_2__widths_(2, 5, 10, 20)",2985395.7919676118
+569,"0__fft_coefficient__attr_""real""__coeff_1:Log_0__fft_coefficient__attr_""real""__coeff_1",1654358147.2518816
+570,"0__cwt_coefficients__coeff_7__w_2__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_7__w_2__widths_(2, 5, 10, 20)",22002984.93981395
+571,0__c3__lag_1:Log_0__c3__lag_1,9919.255044390175
+572,"0__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""mean"":Log_0__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""mean""",13.158713996247537
+573,"0__cwt_coefficients__coeff_4__w_5__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_4__w_5__widths_(2, 5, 10, 20)",293524066.2491678
+574,"0__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.0:Log_0__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.0",56668.22772529268
+575,"0__cwt_coefficients__coeff_4__w_2__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_4__w_2__widths_(2, 5, 10, 20)",31284631.66669494
+576,"0__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.0:Log_0__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.0",43713.63822658291
+577,0__ar_coefficient__coeff_2__k_10:Log_0__ar_coefficient__coeff_2__k_10,14.355274981400742
+578,0__ratio_beyond_r_sigma__r_2:Log_0__ratio_beyond_r_sigma__r_2,8.662138752874906
+579,0__count_above_mean:Log_0__count_above_mean,17.919458878297597
+580,0__count_below_mean:Log_0__count_below_mean,21.332071252964553
+581,0__range_count__max_1__min_-1:Log_0__range_count__max_1__min_-1,9.949352671807464
+582,"0__cwt_coefficients__coeff_6__w_2__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_6__w_2__widths_(2, 5, 10, 20)",29324841.964886963
+583,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.8:Log_0__change_quantiles__f_agg_""mean""__isabs_True__qh_1.0__ql_0.8",2853.877422876178
+584,"0__cwt_coefficients__coeff_2__w_5__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_2__w_5__widths_(2, 5, 10, 20)",797543056.3437929
+585,0__number_cwt_peaks__n_1:Log_0__number_cwt_peaks__n_1,2.8176047585856345
+586,0__fourier_entropy__bins_100:Log_0__fourier_entropy__bins_100,6.989414082176989
+587,"0__fft_coefficient__attr_""imag""__coeff_2:Log_0__fft_coefficient__attr_""imag""__coeff_2",478751532.4276424
+588,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.2__ql_0.0:Log_0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.2__ql_0.0",1.7856549983015106
+589,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.0:Log_0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.0",961.2989219300604
+590,0__index_mass_quantile__q_0.9:Log_0__index_mass_quantile__q_0.9,9.651637485503109
+591,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.0:Log_0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.0",4.809550725692867
+592,0__lempel_ziv_complexity__bins_2:Log_0__lempel_ziv_complexity__bins_2,6.668709197434212
+593,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.8:Log_0__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.8",2159.0619782804397
+594,0__number_cwt_peaks__n_5:Log_0__number_cwt_peaks__n_5,2.5030545155863666
+595,"0__fft_coefficient__attr_""imag""__coeff_3:Log_0__fft_coefficient__attr_""imag""__coeff_3",186901521.75477684
+596,"0__change_quantiles__f_agg_""var""__isabs_True__qh_0.2__ql_0.0:Log_0__change_quantiles__f_agg_""var""__isabs_True__qh_0.2__ql_0.0",2.0311036371121833
+597,0__partial_autocorrelation__lag_7:Log_0__partial_autocorrelation__lag_7,3.612787489842546
+598,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.2:Log_0__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.2",1663.5156051032418
+599,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.4__ql_0.0:Log_0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.4__ql_0.0",3.1766259165864525
+600,0__ratio_beyond_r_sigma__r_2.5:Log_0__ratio_beyond_r_sigma__r_2.5,4.691306499396854
+601,0__quantile__q_0.8:Log_0__quantile__q_0.8,130.8021473801695
+602,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.6__ql_0.0:Log_0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.6__ql_0.0",3.325756419987294
+603,"0__fft_aggregated__aggtype_""skew"":Log_0__fft_aggregated__aggtype_""skew""",7.954788789723977
+604,0__number_peaks__n_10:Log_0__number_peaks__n_10,15.714867053864003
+605,"0__fft_coefficient__attr_""angle""__coeff_8:Log_0__fft_coefficient__attr_""angle""__coeff_8",1237.3646908862038
+606,"0__linear_trend__attr_""rvalue"":Log_0__linear_trend__attr_""rvalue""",12.558761678881899
+607,"0__cwt_coefficients__coeff_12__w_2__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_12__w_2__widths_(2, 5, 10, 20)",11073.304437256533
+608,"0__change_quantiles__f_agg_""var""__isabs_False__qh_0.2__ql_0.0:Log_0__change_quantiles__f_agg_""var""__isabs_False__qh_0.2__ql_0.0",1.3507316983724307
+609,"0__fft_coefficient__attr_""angle""__coeff_7:Log_0__fft_coefficient__attr_""angle""__coeff_7",1166.5927819952096
+610,"0__linear_trend__attr_""pvalue"":Log_0__linear_trend__attr_""pvalue""",13.655983234411659
+611,0__ar_coefficient__coeff_3__k_10:Log_0__ar_coefficient__coeff_3__k_10,3.927499057385194
+612,0__time_reversal_asymmetry_statistic__lag_2:Log_0__time_reversal_asymmetry_statistic__lag_2,24819776.51689897
+613,"0__fft_coefficient__attr_""angle""__coeff_2:Log_0__fft_coefficient__attr_""angle""__coeff_2",2653.1348347635
+614,"0__cwt_coefficients__coeff_9__w_2__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_9__w_2__widths_(2, 5, 10, 20)",331257.84517485055
+615,0__quantile__q_0.3:Log_0__quantile__q_0.3,4.397878013429149
+616,"0__fft_coefficient__attr_""angle""__coeff_9:Log_0__fft_coefficient__attr_""angle""__coeff_9",698.4035153781341
+617,0__lempel_ziv_complexity__bins_10:Log_0__lempel_ziv_complexity__bins_10,5.5195598696140085
+618,0__ar_coefficient__coeff_8__k_10:Log_0__ar_coefficient__coeff_8__k_10,1238.4943489179807
+619,0__kurtosis:Log_0__kurtosis,36.76276343669329
+620,0__variation_coefficient:Log_0__variation_coefficient,36.441306573415424
+621,0__ar_coefficient__coeff_7__k_10:Log_0__ar_coefficient__coeff_7__k_10,683.4003884438756
+622,"0__cwt_coefficients__coeff_14__w_5__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_14__w_5__widths_(2, 5, 10, 20)",33691252.75644324
+623,0__time_reversal_asymmetry_statistic__lag_1:Log_0__time_reversal_asymmetry_statistic__lag_1,373390403.74896866
+624,"0__fft_coefficient__attr_""real""__coeff_5:Log_0__fft_coefficient__attr_""real""__coeff_5",41191016.32393541
+625,"0__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.0:Log_0__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.0",2.488013410330752
+626,"0__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.8:Log_0__change_quantiles__f_agg_""var""__isabs_False__qh_1.0__ql_0.8",8131252001.615013
+627,0__ratio_beyond_r_sigma__r_0.5:Log_0__ratio_beyond_r_sigma__r_0.5,6.257424246936526
+628,0__index_mass_quantile__q_0.6:Log_0__index_mass_quantile__q_0.6,10.799626728781954
+629,"0__change_quantiles__f_agg_""var""__isabs_True__qh_0.4__ql_0.0:Log_0__change_quantiles__f_agg_""var""__isabs_True__qh_0.4__ql_0.0",2.2906633668591834
+630,0__lempel_ziv_complexity__bins_3:Log_0__lempel_ziv_complexity__bins_3,6.146588056785113
+631,"0__fft_coefficient__attr_""real""__coeff_4:Log_0__fft_coefficient__attr_""real""__coeff_4",7340982.306368867
+632,"0__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.8:Log_0__change_quantiles__f_agg_""var""__isabs_True__qh_1.0__ql_0.8",8160757342.42711
+633,"0__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.0:Log_0__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.0",3.0977577792309767
+634,0__skewness:Log_0__skewness,193.9642725136526
+635,"0__fft_coefficient__attr_""angle""__coeff_13:Log_0__fft_coefficient__attr_""angle""__coeff_13",5068.8820378568835
+636,"0__change_quantiles__f_agg_""var""__isabs_False__qh_0.4__ql_0.0:Log_0__change_quantiles__f_agg_""var""__isabs_False__qh_0.4__ql_0.0",2.139237566561724
+637,0__large_standard_deviation__r_0.25:Log_0__large_standard_deviation__r_0.25,4.886858582411184
+638,0__time_reversal_asymmetry_statistic__lag_3:Log_0__time_reversal_asymmetry_statistic__lag_3,155850075349.3614
+639,"0__fft_coefficient__attr_""angle""__coeff_12:Log_0__fft_coefficient__attr_""angle""__coeff_12",1091.233832050483
+640,0__ar_coefficient__coeff_4__k_10:Log_0__ar_coefficient__coeff_4__k_10,5.054831796188013
+641,0__partial_autocorrelation__lag_9:Log_0__partial_autocorrelation__lag_9,2.2766811904554123
+642,"0__fft_aggregated__aggtype_""kurtosis"":Log_0__fft_aggregated__aggtype_""kurtosis""",34.42116922714244
+643,"0__agg_autocorrelation__f_agg_""var""__maxlag_40:Log_0__agg_autocorrelation__f_agg_""var""__maxlag_40",9.17020067970979
+644,0__ratio_beyond_r_sigma__r_1:Log_0__ratio_beyond_r_sigma__r_1,9.13941050458642
+645,0__partial_autocorrelation__lag_6:Log_0__partial_autocorrelation__lag_6,8.584318787076866
+646,0__autocorrelation__lag_5:Log_0__autocorrelation__lag_5,14.9027166451686
+647,0__binned_entropy__max_bins_10:Log_0__binned_entropy__max_bins_10,6.618039596828487
+648,0__partial_autocorrelation__lag_3:Log_0__partial_autocorrelation__lag_3,18.8266037281932
+649,"0__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""mean"":Log_0__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""mean""",31.452345317549934
+650,"0__fft_aggregated__aggtype_""variance"":Log_0__fft_aggregated__aggtype_""variance""",12.42231960734971
+651,"0__fft_coefficient__attr_""imag""__coeff_4:Log_0__fft_coefficient__attr_""imag""__coeff_4",76795086.61752735
+652,0__c3__lag_2:Log_0__c3__lag_2,5676.817263989656
+653,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.2:Log_0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.2",297.0034380421009
+654,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.6__ql_0.0:Log_0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.6__ql_0.0",3.6359123460345617
+655,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.4__ql_0.0:Log_0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.4__ql_0.0",2.845328498968528
+656,"0__cwt_coefficients__coeff_11__w_2__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_11__w_2__widths_(2, 5, 10, 20)",15648.539458995292
+657,"0__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.4:Log_0__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.4",680.325293001287
+658,"0__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.4:Log_0__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.4",434.79073503182866
+659,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.4:Log_0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.4",67.49586661079547
+660,0__symmetry_looking__r_0.1:Log_0__symmetry_looking__r_0.1,3.666530278596027
+661,"0__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.2:Log_0__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.2",2698.0173478062247
+662,"0__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.2:Log_0__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.2",2742.6669300862395
+663,0__ar_coefficient__coeff_10__k_10:Log_0__ar_coefficient__coeff_10__k_10,50.7725735270598
+664,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.6:Log_0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.8__ql_0.6",23.906905249556488
+665,0__ar_coefficient__coeff_5__k_10:Log_0__ar_coefficient__coeff_5__k_10,5.800043132105639
+666,"0__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.6:Log_0__change_quantiles__f_agg_""var""__isabs_True__qh_0.8__ql_0.6",243.19728965525363
+667,"0__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.6:Log_0__change_quantiles__f_agg_""var""__isabs_False__qh_0.8__ql_0.6",267.5992116598228
+668,"0__fft_coefficient__attr_""angle""__coeff_10:Log_0__fft_coefficient__attr_""angle""__coeff_10",951.5226913423088
+669,"0__fft_coefficient__attr_""imag""__coeff_9:Log_0__fft_coefficient__attr_""imag""__coeff_9",58461053.74825553
+670,"0__fft_coefficient__attr_""angle""__coeff_11:Log_0__fft_coefficient__attr_""angle""__coeff_11",937.9859312037497
+671,"0__fft_coefficient__attr_""real""__coeff_3:Log_0__fft_coefficient__attr_""real""__coeff_3",1287649.5386835665
+672,"0__fft_coefficient__attr_""imag""__coeff_6:Log_0__fft_coefficient__attr_""imag""__coeff_6",3223510.179830563
+673,"0__augmented_dickey_fuller__attr_""pvalue""__autolag_""AIC"":Log_0__augmented_dickey_fuller__attr_""pvalue""__autolag_""AIC""",2.525504123044311
+674,0__ar_coefficient__coeff_6__k_10:Log_0__ar_coefficient__coeff_6__k_10,640.4706163557516
+675,"0__fft_coefficient__attr_""real""__coeff_8:Log_0__fft_coefficient__attr_""real""__coeff_8",30515128.644782823
+676,"0__fft_coefficient__attr_""real""__coeff_9:Log_0__fft_coefficient__attr_""real""__coeff_9",7445525.2530804
+677,"0__augmented_dickey_fuller__attr_""teststat""__autolag_""AIC"":Log_0__augmented_dickey_fuller__attr_""teststat""__autolag_""AIC""",8084.86977099315
+678,"0__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""var"":Log_0__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""var""",36.76383368641432
+679,"0__fft_coefficient__attr_""imag""__coeff_8:Log_0__fft_coefficient__attr_""imag""__coeff_8",36981141.43818737
+680,0__quantile__q_0.7:Log_0__quantile__q_0.7,113.12133925519537
+681,"0__cwt_coefficients__coeff_13__w_5__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_13__w_5__widths_(2, 5, 10, 20)",51594389.49083394
+682,"0__fft_aggregated__aggtype_""centroid"":Log_0__fft_aggregated__aggtype_""centroid""",25.11774068535633
+683,"0__cwt_coefficients__coeff_5__w_2__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_5__w_2__widths_(2, 5, 10, 20)",10517950.502418304
+684,0__energy_ratio_by_chunks__num_segments_10__segment_focus_3:Log_0__energy_ratio_by_chunks__num_segments_10__segment_focus_3,33.386600856775445
+685,"0__cwt_coefficients__coeff_3__w_5__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_3__w_5__widths_(2, 5, 10, 20)",377803658.0476037
+686,"0__fft_coefficient__attr_""real""__coeff_13:Log_0__fft_coefficient__attr_""real""__coeff_13",45154148.87736492
+687,"0__fft_coefficient__attr_""imag""__coeff_12:Log_0__fft_coefficient__attr_""imag""__coeff_12",13231252.90051159
+688,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.4__ql_0.2:Log_0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.4__ql_0.2",1.8555037121622342
+689,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.6__ql_0.2:Log_0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.6__ql_0.2",2.8349990590975693
+690,0__autocorrelation__lag_3:Log_0__autocorrelation__lag_3,17.88430776125417
+691,"0__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""max"":Log_0__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""max""",46.121461684857366
+692,0__ratio_beyond_r_sigma__r_3:Log_0__ratio_beyond_r_sigma__r_3,2.1047352176640346
+693,"0__fft_coefficient__attr_""imag""__coeff_10:Log_0__fft_coefficient__attr_""imag""__coeff_10",41874415.31515952
+694,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.2__ql_0.0:Log_0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.2__ql_0.0",1.5571745379323936
+695,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.2:Log_0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.2",17.530106751230598
+696,0__quantile__q_0.4:Log_0__quantile__q_0.4,7.064198722008719
+697,"0__cwt_coefficients__coeff_10__w_2__widths_(2, 5, 10, 20):Log_0__cwt_coefficients__coeff_10__w_2__widths_(2, 5, 10, 20)",26584.641405025483
+698,"0__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""min"":Log_0__agg_linear_trend__attr_""rvalue""__chunk_len_5__f_agg_""min""",5.871341284347154
+699,0__ar_coefficient__coeff_9__k_10:Log_0__ar_coefficient__coeff_9__k_10,2.610655092660048
+700,0__energy_ratio_by_chunks__num_segments_10__segment_focus_1:Log_0__energy_ratio_by_chunks__num_segments_10__segment_focus_1,18.3605168984646
+701,"0__fft_coefficient__attr_""real""__coeff_7:Log_0__fft_coefficient__attr_""real""__coeff_7",41736042.96527933
+702,0__mean_change:Log_0__mean_change,16264.851291648945
+703,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.0:Log_0__change_quantiles__f_agg_""mean""__isabs_False__qh_1.0__ql_0.0",15970.40846714477
+704,"0__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""min"":Log_0__agg_linear_trend__attr_""rvalue""__chunk_len_10__f_agg_""min""",7.885408186156171
+705,0__median:Log_0__median,120.8801561974926
+706,"0__fft_coefficient__attr_""imag""__coeff_7:Log_0__fft_coefficient__attr_""imag""__coeff_7",2501386.914973807
+707,"0__fft_coefficient__attr_""real""__coeff_11:Log_0__fft_coefficient__attr_""real""__coeff_11",8147215.859922263
+708,0__index_mass_quantile__q_0.7:Log_0__index_mass_quantile__q_0.7,8.589741129526248
+709,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.6__ql_0.4:Log_0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.6__ql_0.4",51.08622197320674
+710,0__lempel_ziv_complexity__bins_5:Log_0__lempel_ziv_complexity__bins_5,6.230655519406142
+711,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.6__ql_0.2:Log_0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.6__ql_0.2",5.407169967346488
+712,"0__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.4:Log_0__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.4",1.6988051678559055
+713,"0__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.4:Log_0__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.4",1.6988051678559055
+714,"0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.4__ql_0.2:Log_0__change_quantiles__f_agg_""mean""__isabs_True__qh_0.4__ql_0.2",2.2863714199376832
+715,0__partial_autocorrelation__lag_5:Log_0__partial_autocorrelation__lag_5,7.237159426613745
+716,"0__fft_coefficient__attr_""imag""__coeff_5:Log_0__fft_coefficient__attr_""imag""__coeff_5",37769736.99548096
+717,0__sum_of_reoccurring_values:Log_0__sum_of_reoccurring_values,231.30578359638855
+718,0__mean_second_derivative_central:Log_0__mean_second_derivative_central,1628.3712808937803
+719,"0__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.2:Log_0__change_quantiles__f_agg_""var""__isabs_False__qh_0.6__ql_0.2",5.148290896999075
+720,"0__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.2:Log_0__change_quantiles__f_agg_""var""__isabs_True__qh_0.6__ql_0.2",5.282280362267934
+721,0__quantile__q_0.6:Log_0__quantile__q_0.6,17.985245442886256
+722,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.6__ql_0.4:Log_0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.6__ql_0.4",51.206431798599084
+723,0__c3__lag_3:Log_0__c3__lag_3,5935.140730321934
+724,"0__fft_coefficient__attr_""imag""__coeff_11:Log_0__fft_coefficient__attr_""imag""__coeff_11",46239248.09048626
+725,0__partial_autocorrelation__lag_4:Log_0__partial_autocorrelation__lag_4,8.403325892299932
+726,"0__fft_coefficient__attr_""real""__coeff_12:Log_0__fft_coefficient__attr_""real""__coeff_12",69275441.32749107
+727,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.4:Log_0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.4",20.916219526406287
+728,"0__fft_coefficient__attr_""real""__coeff_6:Log_0__fft_coefficient__attr_""real""__coeff_6",53392425.89644663
+729,0__autocorrelation__lag_4:Log_0__autocorrelation__lag_4,9.29452677400052
+730,"0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.6:Log_0__change_quantiles__f_agg_""mean""__isabs_False__qh_0.8__ql_0.6",28.862844406077116
+731,"0__change_quantiles__f_agg_""var""__isabs_False__qh_0.4__ql_0.2:Log_0__change_quantiles__f_agg_""var""__isabs_False__qh_0.4__ql_0.2",1.7015576788170084
+732,"0__fft_coefficient__attr_""real""__coeff_10:Log_0__fft_coefficient__attr_""real""__coeff_10",547304.172097928
+733,"0__change_quantiles__f_agg_""var""__isabs_True__qh_0.4__ql_0.2:Log_0__change_quantiles__f_agg_""var""__isabs_True__qh_0.4__ql_0.2",1.7930220264811279
+734,0__index_mass_quantile__q_0.8:Log_0__index_mass_quantile__q_0.8,7.789065631781518
+735,0__friedrich_coefficients__coeff_3__m_3__r_30:Log_0__friedrich_coefficients__coeff_3__m_3__r_30,4992.276702488776
+736,0__friedrich_coefficients__coeff_1__m_3__r_30:Log_0__friedrich_coefficients__coeff_1__m_3__r_30,332.3277876406709
+737,0__friedrich_coefficients__coeff_0__m_3__r_30:Log_0__friedrich_coefficients__coeff_0__m_3__r_30,417.4574887294086
+738,0__large_standard_deviation__r_0.30000000000000004:Log_0__large_standard_deviation__r_0.30000000000000004,2.127586354410522
+739,0__friedrich_coefficients__coeff_2__m_3__r_30:Log_0__friedrich_coefficients__coeff_2__m_3__r_30,324.9669358709727
+740,0__max_langevin_fixed_point__m_3__r_30:Log_0__max_langevin_fixed_point__m_3__r_30,17607.76608829696
+741,const,0.0

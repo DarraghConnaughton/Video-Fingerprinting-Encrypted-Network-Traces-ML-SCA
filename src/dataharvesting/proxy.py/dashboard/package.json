@@ -1,0 +1,55 @@
+{
+  "name": "proxy.py",
+  "version": "1.0.0",
+  "description": "Frontend dashboard for proxy.py",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rm -rf tsbuild",
+    "lint": "eslint --global $ \"src/**/*.ts\" \"test/**/*.ts\"",
+    "pretest": "npm run clean && npm run lint && tsc --target es5 --outDir tsbuild test/test.ts",
+    "test": "jasmine tsbuild/test/test.js",
+    "build": "npm test && rollup -c",
+    "start": "pushd ../public && http-server -g true -i false -d false -c-1 --no-dotfiles . && popd",
+    "watch": "rollup -c -w",
+    "build-devtools": "tsc --target es5 --outDir tsbuild src/core/devtools.ts",
+    "devtools": "npm run build-devtools && node tsbuild/devtools.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinavsingh/proxy.py.git"
+  },
+  "author": "Abhinav Singh",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/abhinavsingh/proxy.py/issues"
+  },
+  "homepage": "https://github.com/abhinavsingh/proxy.py#readme",
+  "devDependencies": {
+    "@types/jasmine": "^4.3.0",
+    "@types/jquery": "^3.5.14",
+    "@types/js-cookie": "^3.0.2",
+    "@typescript-eslint/eslint-plugin": "^2.34.0",
+    "@typescript-eslint/parser": "^2.34.0",
+    "chrome-devtools-frontend": "^1.0.1040857",
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.3.1",
+    "eslint-plugin-standard": "^5.0.0",
+    "http-server": "^14.1.1",
+    "jasmine": "^4.4.0",
+    "jasmine-ts": "^0.4.0",
+    "jquery": "^3.6.1",
+    "js-cookie": "^3.0.1",
+    "jsdom": "^15.2.1",
+    "ncp": "^2.0.0",
+    "rollup": "^1.32.1",
+    "rollup-plugin-copy": "^3.4.0",
+    "rollup-plugin-javascript-obfuscator": "^1.0.4",
+    "rollup-plugin-typescript": "^1.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4",
+    "ws": "^8.9.0"
+  }
+}

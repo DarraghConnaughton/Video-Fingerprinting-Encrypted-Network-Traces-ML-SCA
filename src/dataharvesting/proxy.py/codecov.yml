@@ -1,0 +1,27 @@
+---
+codecov:
+  require_ci_to_pass: yes  # yamllint disable-line rule:truthy
+  notify:
+    wait_for_ci: yes  # yamllint disable-line rule:truthy
+coverage:
+  status:
+    project:
+      default: false  # disable the default status that measures entire project
+      # examples:   # declare a new status context "examples"
+      tests:    # declare a new status context "tests"
+        # target: 100%  # we always want 100% coverage here
+        paths:
+        - "tests/"   # only include coverage in "tests/" folder
+        threshold: 1%
+      lib:  # declare a new status context "lib"
+        paths:
+        - "!tests/"  # remove all files in "tests/"
+        threshold: 1%
+    patch:
+      default:
+        target: auto
+        base: auto
+        threshold: 1%
+comment:
+  require_changes: true
+...
